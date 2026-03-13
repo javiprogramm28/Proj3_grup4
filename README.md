@@ -16,3 +16,5 @@ NetBeans (IDE per a aplicacions d'escriptori i aprenentatge)
 MySQL (Sistema de gestió de bases de dades proporcionat per Oracle)
 
 Bases de dades relacionals (Estructura de dades del projecte)
+
+VIDEO: https://drive.google.com/file/d/1f5RMDnChKqthnHl5k6nWN0WYeVRQ7ebd/view?usp=sharing
